@@ -1,4 +1,4 @@
-# employee-management-tools
+# Employee Management Tool
 
 ## Prerequisites
 
